@@ -6,15 +6,16 @@
 
 /* Bootstrap default font-family is Helvetica Neue */
 h1 {
-   font-family: "Times New Roman", Times, serif;
+   font-family: 'Plaster';   
    text-shadow: 3px 3px 1px black;
    font-size: 4em; 
 }
 
 h2 {
-   font-family: Tahoma, Geneva, sans-serif;
-   font-size: 3em;
+   font-family: 'Syncopate';   
+   font-size: 2em;
    font-weight: bold;
+   margin-top: 8px;
 }
 
 img.logo {
@@ -52,7 +53,7 @@ a.card-link:hover {
 .anchor {
    display: block;
    position: relative;
-   top: -100px;
+   top: -50px;
    visibility: hidden;
 }
 
